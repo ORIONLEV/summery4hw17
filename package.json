@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "browserslist": "> 0.5%, last 2 versions, not dead",
+  "homepage": " https://orionlev.github.io/summery4hw17/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "npx parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /parceltry2/",
+    "build": "parcel build src/index.html --public-url /summery4hw17/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
